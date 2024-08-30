@@ -9,8 +9,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=zavik001&style=flat-square)
 
----
-
 ### 👨🏻‍💻 Languages and Tools <br />
 **Back-end**
 
