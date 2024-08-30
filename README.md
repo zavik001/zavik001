@@ -15,9 +15,7 @@ Hi, I’m **Zavik**!
 ## 🛠️ Languages and Tools
 
 ### Back-end
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Java](https://raw.githubusercontent.com/lilpuzeen/lilpuzeen/master/icons/java.png)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
